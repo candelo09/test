@@ -1,5 +1,6 @@
 {
   "app": {
-    "isorderdistribuite":true
+    "isorderdistribuite":true,
+    "iswallet":false
   }
 }

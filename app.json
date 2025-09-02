@@ -1,6 +1,8 @@
 {
   "app": {
     "isorderdistribuite":true,
-    "iswallet":false
+    "iswallet":false,
+    "isreceipts":false,
+    "isinvoice": true
   }
 }
